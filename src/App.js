@@ -6,7 +6,7 @@ function App() {
   return (
     <div class="div_center">
       <Helmet> 
-        <title>Bs home!</title>
+        <title>Bjørins heimesia!</title>
       </Helmet>
       <h1> Bjørnar sin hjemmeside. </h1>
 
