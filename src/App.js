@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-      Bjørnar sin hjemmeside.
+    <div class="div_center">
+      <h1> Bjørnar sin hjemmeside. </h1>
 
       <br></br>
       <br></br>

@@ -3,12 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import Message from './Message';
+import Easter from './Easter';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
     <Message />
+    <Easter />
   </React.StrictMode>,
   document.getElementById('root')
 );
