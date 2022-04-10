@@ -4,7 +4,11 @@ import './App.css';
 function App() {
   return (
     <div>
-      Min første tekst. Hei
+      Bjørnar sin hjemmeside.
+
+      <br></br>
+      <br></br>
+      <br></br> 
     </div>
   );
 }
