@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      Min første tekst.
+      Min første tekst. Hei
     </div>
   );
 }
