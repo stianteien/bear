@@ -9,6 +9,8 @@ function App() {
       <br></br>
       <br></br>
       <br></br> 
+      <img src={process.env.PUBLIC_URL + "/goat.PNG"} height={250} width={250} />
+      <br />
     </div>
   );
 }
