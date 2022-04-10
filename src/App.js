@@ -1,9 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import { Helmet } from 'react-helmet';
 
 function App() {
   return (
     <div class="div_center">
+      <Helmet> 
+        <title>Bs home!</title>
+      </Helmet>
       <h1> Bjørnar sin hjemmeside. </h1>
 
       <br></br>
