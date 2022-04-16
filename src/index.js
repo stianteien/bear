@@ -4,13 +4,16 @@ import './index.css';
 import App from './App';
 import Message from './Message';
 import Easter from './Easter';
+import Rules from './Rules';
+import Brainteaser from './Brainteaser';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <Rules />
+    <Brainteaser />
     <Message />
-    <Easter />
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -6,14 +6,16 @@ function App() {
   return (
     <div class="div_center">
       <Helmet> 
-        <title>Bjørins heimesia!</title>
+        <title>Bjørnis heimesia!</title>
       </Helmet>
-      <h1> Bjørnar sin hjemmeside. </h1>
-
-      <br></br>
-      <br></br>
-      <br></br> 
-      <img src={process.env.PUBLIC_URL + "/goat2.jpg"} height={250} width={250} />
+      <h1 class="div_center"> Bjørnar sin hjemmeside. </h1>
+      
+      <div class="div_center"> 
+        <div class="div_litle_right">
+          <img src={process.env.PUBLIC_URL + "/goat2.jpg"} height={250} width={250} />
+        </div> 
+      </div>
+      
       <br />
     </div>
   );
