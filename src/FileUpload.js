@@ -12,11 +12,11 @@ function FileUploadComponent() {
         <div className="App">
             <h2>Find my pipe!</h2>
             <p>
-                The next days a new function will arrive! It is called find my pipes. <br></br>
+                The next days a new function will arrive! It is called <b> <i> find my pipes! </i> </b> <br></br>
                 Upload your favorite ortophoto or oblique photograph of a house. <br></br>
-                Then extremely advanced artificial inteligent made by our finist scientst will find your pipes! <br></br>
+                Then extremely advanced artificial intelligence made by our finest scientists will find your pipes! <br></br>
                 <br></br> 
-                <b>For the next few weeks.</b>
+                <b>For free the next few weeks.</b>
             </p>
             <input type="file" onChange={handleChange} />
             <img src={file} />
