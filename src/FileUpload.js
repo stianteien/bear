@@ -16,7 +16,7 @@ function FileUploadComponent() {
                 Upload your favorite ortophoto or oblique photograph of a house. <br></br>
                 Then extremely advanced artificial intelligence made by our finest scientists will find your pipes! <br></br>
                 <br></br> 
-                <b>Free the next few weeks.</b>
+                <b>Free for the next few weeks.</b>
             </p>
             <input type="file" onChange={handleChange} />
             <img src={file} />

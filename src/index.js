@@ -9,11 +9,13 @@ import Brainteaser from './Brainteaser';
 import reportWebVitals from './reportWebVitals';
 import Upload from './Upload';
 import FileUploadComponent from './FileUpload';
+import FindPipe from './FindPipe';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
     <FileUploadComponent />
+    <FindPipe />
   </React.StrictMode>,
   document.getElementById('root')
 );
