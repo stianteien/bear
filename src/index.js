@@ -7,13 +7,13 @@ import Easter from './Easter';
 import Rules from './Rules';
 import Brainteaser from './Brainteaser';
 import reportWebVitals from './reportWebVitals';
+import Upload from './Upload';
+import FileUploadComponent from './FileUpload';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <Rules />
-    <Brainteaser />
-    <Message />
+    <FileUploadComponent />
   </React.StrictMode>,
   document.getElementById('root')
 );
