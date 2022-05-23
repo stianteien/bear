@@ -6,12 +6,14 @@ function Brainteaser() {
       <div class="div_center">
             <div class="div_center"> 
             <div class="div_litle_right">
-                <h1 class="red_header"> Ukens Brainteaser</h1>
+                <h1 class="red_header"> Endelig ferdig!</h1>
             </div>    
 
             <p>
-                Hvis du kjørte buss fra Oslo med 30 personer, slapp av 7 og fikk 2 nye på Lillestrøm,
-                 stoppet på Otta og slapp av 8 og plukket opp 10 nye, og så kjørte til Trondheim - hva ville sjåføren hete?    
+                Hei! Nå er jeg endelig ferdig med min utdanning. Derfor vil jeg ikke ha noen ytterligere oppdatering på denne siden.
+                Takk for nå og good bye.
+                <br></br> 
+                - BNK
             </p> 
             </div>
             

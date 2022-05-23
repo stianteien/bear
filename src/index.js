@@ -14,8 +14,7 @@ import FindPipe from './FindPipe';
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <FileUploadComponent />
-    <FindPipe />
+    <Brainteaser />
   </React.StrictMode>,
   document.getElementById('root')
 );
